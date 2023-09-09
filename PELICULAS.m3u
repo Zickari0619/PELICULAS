@@ -147,14 +147,8 @@ http://magmas5.com:8000/sunlink/dFIdo0UaMM/2552
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.9SqZsqDyA4yvkSrSZRWsBQHaJ3&pid=Api&P=0&w=400&h=533" group-title="CINE 24/7",CINE FICCION HD
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/2553
 
-
-
-
-
-
-
  
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/RCiw3Mx.jpeg" tvg-shift=-1 group-title="SERIES" tvg-name=A&E  ,A&E
+#EXTINF:-1  tvg-shift=-1 group-title="SERIES" tvg-logo="http://imgfz.com/i/RCiw3Mx.jpeg" tvg-shift=-1 group-title="SERIES" tvg-name=A&E  ,A&E
 http://138.59.177.34:8000/play/a052/index.m3u8
  
 #EXTINF:-1  tvg-shift=-1 group-title="SERIES" tvg-logo="http://imgfz.com/i/RCiw3Mx.jpeg", A&E HD
