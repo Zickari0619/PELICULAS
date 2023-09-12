@@ -134,16 +134,10 @@ http://magmas5.com:8000/sunlink/dFIdo0UaMM/129381
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.9SqZsqDyA4yvkSrSZRWsBQHaJ3&pid=Api&P=0&w=400&h=533" group-title="CINE 24/7",CINE PELICULAS HD
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/129380
 
-#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.9SqZsqDyA4yvkSrSZRWsBQHaJ3&pid=Api&P=0&w=400&h=533" group-title="CINE 24/7",CINE ACCION 1 HD
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.9SqZsqDyA4yvkSrSZRWsBQHaJ3&pid=Api&P=0&w=400&h=533" group-title="CINE 24/7",CINE ACCION  HD
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/2544
 
-#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.9SqZsqDyA4yvkSrSZRWsBQHaJ3&pid=Api&P=0&w=400&h=533" group-title="CINE 24/7",CINE ACCION 2 HD
-http://magmas5.com:8000/sunlink/dFIdo0UaMM/2545
-
-#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.9SqZsqDyA4yvkSrSZRWsBQHaJ3&pid=Api&P=0&w=400&h=533" group-title="CINE 24/7",CINE ACCION 3 HD
-http://magmas5.com:8000/sunlink/dFIdo0UaMM/2546
-
-#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.9SqZsqDyA4yvkSrSZRWsBQHaJ3&pid=Api&P=0&w=400&h=533" group-title="CINE 24/7",CINE ACCION 4 HD
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.9SqZsqDyA4yvkSrSZRWsBQHaJ3&pid=Api&P=0&w=400&h=533" group-title="CINE 24/7",CINE ACCION  HD
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/2544
 
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.9SqZsqDyA4yvkSrSZRWsBQHaJ3&pid=Api&P=0&w=400&h=533" group-title="CINE 24/7",CINE COMEDIA HD
@@ -151,10 +145,6 @@ http://magmas5.com:8000/sunlink/dFIdo0UaMM/2548
 
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.9SqZsqDyA4yvkSrSZRWsBQHaJ3&pid=Api&P=0&w=400&h=533" group-title="CINE 24/7",CINE CLASICOS HD
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/2552
-
-#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.9SqZsqDyA4yvkSrSZRWsBQHaJ3&pid=Api&P=0&w=400&h=533" group-title="CINE 24/7",CINE FICCION HD
-http://magmas5.com:8000/sunlink/dFIdo0UaMM/2553
-
 
 #EXTINF: CANALES VIP 
 
@@ -173,7 +163,9 @@ http://magmas5.com:8000/sunlink/dFIdo0UaMM/130017
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.uHSNiuI7jHOnfoN4gLrddAHaHa&pid=Api&P=0&w=400&h=400" group-title="VIP",ADN40 HD
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/3699
 
-#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.a9nBb3wYKdZ0E7g6XeNFkQAAAA&pid=Api&P=0&w=400&h=400" group-title="VIP",AMX NOTICIAS HD
+#EXTINF:-1 tvg-logo="ht
+
+tps://tse1.mm.bing.net/th?id=OIP.a9nBb3wYKdZ0E7g6XeNFkQAAAA&pid=Api&P=0&w=400&h=400" group-title="VIP",AMX NOTICIAS HD
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/148857
 
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.MKKfxJUcWpeYilaFOzbZ9QHaHj&pid=Api&P=0&w=400&h=408" group-title="VIP",AZTECA CINEMA HD
