@@ -1,183 +1,93 @@
-#EXTINF:-1 24/7
+
 #EXTINF:-1 tvg-id="" tvg-name="24/7|| Los caballeros del Zodiaco HD" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.RPlrEkGfIVoPkXAT7Xv8TgHaK4&pid=Api&P=0&w=400&h=588" group-title="24/7", LOS CABALLEROS DEL ZODIACO HD
 http://my-chplus.net:8080/b4ck9CABEfMc5JA/pxanQtVZRV/61900
 
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.Zch-G52rqDqX_brefubfzAHaHa&pid=Api&P=0&w=400&h=400" group-title="MEXICO",TELEVISA PUEBLA UHD
-
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/3799
 
-
-
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.gM8qHfxsJFCBoaftAU2nIwAAAA&pid=Api&P=0&w=400&h=400" group-title="",GARAGETV HD
-
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/3679
 
-
-
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.QJJ9JaDOj-_A2EZYt0_anQAAAA&pid=Api&P=0&w=400&h=400" group-title="DEPORTES",CANAL 28 HD
-
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/149449
 
-
-
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.E3NHouP58Kxvd8LiBIipZQAAAA&pid=Api&P=0&w=400&h=400" group-title="MEXICO",AZTECA UNO HD
-
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/130034
 
-
-
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.u-37sPNGsK6qgJRDTwYLUgHaHa&pid=Api&P=0&w=400&h=400" group-title="DEPORTES",ESPN
-
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/155189
 
-
-
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.2iqDUPSriWYv7rG3vMEH8AHaHb&pid=Api&P=0&w=400&h=402" group-title="VIP",STAR CHANNEL HD
-
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/2693
 
-
-
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.Mlys8TFMuNZhdaXKCyUpywHaHa&pid=Api&P=0&w=400&h=400" group-title="VIP",UNIVERSAL REALITY HD
-
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/2694
 
-
-
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.u1CZn7KGD4dg70si74vwngAAAA&pid=Api&P=0&w=300&h=300" group-title="VIP",STAR CHANNEL HD
-
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/2695
 
-OK#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.P8u3yvXThLNUnyJuVpWEDwHaHa&pid=Api&P=0&w=400&h=400" group-title="VIP",STAR COMEDY HD
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.P8u3yvXThLNUnyJuVpWEDwHaHa&pid=Api&P=0&w=400&h=400" group-title="VIP",STAR COMEDY HD
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/2696
-
-
 
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.aNxE3VYJyWrZN9VtC9xmPAAAAA&pid=Api&P=0&w=300&h=300" group-title="VIP",UNIVERSAL CRIME HD
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/2697
 
-
-
-#EXTINF:-1 tvg-logo="IMAGENDE INTERNET" group-title="GENERO",STAR MOVIE HD
-
-http://magmas5.com:8000/sunlink/dFIdo0UaMM/2698
-
-
-
-#EXTINF:-1 tvg-logo="IMAGENDE INTERNET" group-title="GENERO",ATRESERIES HD
-
+#EXTINF:-1 tvg-logo="devtools://devtools/bundled/devtools_app.html?remoteBase=https://tse2.mm.bing.net/th?id=OIP.28IkbprIJWm2f1Mlsf6NeQHaEK&pid=Api&P=0&w=711&h=400" group-title="VIP",ATRESERIES HD
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/2786
 
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNM-896v2U8GEsgB6iFxOc5zZNhGFC_BvGeg&usqp=CAU" group-title="DEPORTES",ESPN 4 HD
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNM-896v2U8GEsgB6iFxOc5zZNhGFC_BvGeg&usqp=CAU" group-title="VIP",ESPN 4 HD
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/2787
 
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrFMeSedaCpcZB4YRIRiwY2Ct3bCkVX6T8fg&usqp=CAU" group-title="DEPORTES",FOX SPORTS 2 HD
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrFMeSedaCpcZB4YRIRiwY2Ct3bCkVX6T8fg&usqp=CAU" group-title="VIP",FOX SPORTS 2 HD
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/2788
 
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBf3BrQQxZAkWG-ixDAdc7yn2OypCtbImOmw&usqp=CAU" group-title="DEPORTES",FOX SPORTS 3 HD
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBf3BrQQxZAkWG-ixDAdc7yn2OypCtbImOmw&usqp=CAU" group-title="VIP",FOX SPORTS 3 HD
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/2789
 
-
-
-#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.FgIszZ2iZBEIPNmhFbkiZAHaFj&pid=Api&P=0&w=533&h=400" group-title="PELICULAS",HBO HD
-
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.FgIszZ2iZBEIPNmhFbkiZAHaFj&pid=Api&P=0&w=533&h=400" group-title="VIP",HBO HD
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/2790
 
-
-
-#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.qnorJAP8tHrMAcvhpOdYSAHaHa&pid=Api&P=0&w=400&h=400" group-title="PELICULAS",HBO 2 HD
-
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.qnorJAP8tHrMAcvhpOdYSAHaHa&pid=Api&P=0&w=400&h=400" group-title="VIP",HBO 2 HD
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/2791
 
-
-
-#EXTINF:-1 tvg-logo="IMAGENDE INTERNET" group-title="GENERO",HBO FAMILY HD
-
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.pms0p8v_EzUqjeOBUJhpoAHaDt&pid=Api&P=0&w=500&h=250" group-title="VIP",HBO SIGNATURE HD
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/2792
 
-
-
-#EXTINF:-1 tvg-logo="IMAGENDE INTERNET" group-title="GENERO",HBO PLUS HD
-
-http://magmas5.com:8000/sunlink/dFIdo0UaMM/2793
-
-
-
-#EXTINF:-1 tvg-logo="IMAGENDE INTERNET" group-title="GENERO",HBO SIGNATURE HD
-
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.pms0p8v_EzUqjeOBUJhpoAHaDt&pid=Api&P=0&w=500&h=250" group-title="VIP",HBO SIGNATURE HD
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/2794
 
 
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.Zb1l4qRIEgSSyGhsObmBPwHaE7&pid=Api&P=0&w=600&h=400" group-title="VIP",HBO+ HD
+http://magmas5.com:8000/sunlink/dFIdo0UaMM/2793
 
-#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.qnorJAP8tHrMAcvhpOdYSAHaHa&pid=Api&P=0&w=400&h=400" group-title="PELICULAS",HBO POP HD
-
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.qnorJAP8tHrMAcvhpOdYSAHaHa&pid=Api&P=0&w=400&h=400" group-title="VIP",HBO POP HD
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/2795
 
-
-
-#EXTINF:-1 tvg-logo="IMAGENDE INTERNET" group-title="GENERO",HBO MUNDI HD
-
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP._1l2phSOcgwBzEm-OuGo4AHaHS&pid=Api&P=0&w=406&h=400" group-title="VIP",HBO MUNDI HD
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/2796
 
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbp_S2Veui_HkAVEWmGHvEuQVt2o9r1-mfQA&usqp=CAU" group-title="PELICULAS",TNT HD
-
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/2797
 
-
-
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.7NvINRX3RhIU5oMNgnuLIAHaHa&pid=Api&P=0&w=400&h=400" group-title="PELICULAS",TNT SERIES HD
-
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/2798
 
-
-
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.kGLTIv4jY-2d96Zm4Vpj1QHaEK&pid=Api&P=0&w=711&h=400" group-title="CULTURA",NATGEO HD
-
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/2799
 
-
-
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.yOSl4_u3m5sG7Q9j0mZokgHaHa&pid=Api&P=0&w=400&h=400" group-title="CULTURA",ANIMAL PLANET HD
-
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/2800
 
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="PELICULA",SONY HD
-
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/2801
 
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOLY-F16N3ZEMWoUxBDU_wYcDasmIs3cPcnA&usqp=CAU" group-title="INFANTIL",CAETOONITO HD
-
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/2802
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="INFANTIL",CARTOON NETWORK HD 
-
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.lwoXhy2XjSbVx7QxMmgaWQHaF7&pid=Api&P=0&w=500&h=400" group-title="VIP",CARTOON NETWORK HD 
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/2803
 
-
-
 #EXTINF:-1 tvg-logo="IMAGENDE INTERNET" group-title="GENERO",CINE CANAL HD
-
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/2804
 
 
@@ -185,7 +95,6 @@ http://magmas5.com:8000/sunlink/dFIdo0UaMM/2804
 #EXTINF:-1 tvg-logo="IMAGENDE INTERNET" group-title="GENERO",COMEDY CENTRAL HD
 
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/2805
-
 
 
 #EXTINF:-1 tvg-logo="IMAGENDE INTERNET" group-title="GENERO",HBO 2 HD
